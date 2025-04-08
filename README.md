@@ -1,7 +1,7 @@
 <img align="right" src="./Photo.png" alt="Hector S. Lazcano" width="200"/>
 
 ## Hola,  🧑🏽‍💻 It's Hector S. Lazcano
-## [Take a look at my site!](https://hector-lazcano-g3j5fgaof-hector-s-lazcanos-projects.vercel.app/)
+## [Take a look at my site!](https://hector-lazcano.vercel.app/)
 ## 💻 Full Stack Developer
 I'm an electronic engineer who decided to dive into the world of full-stack development, and I haven't looked back since! With over 5 years of experience, I love crafting high-quality, maintainable, and scalable applications. Staying curious and keeping up with emerging technologies is what keeps me excited about building innovative solutions every day.
 
