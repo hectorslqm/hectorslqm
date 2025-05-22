@@ -3,7 +3,7 @@
 ## Hola,  🧑🏽‍💻 It's Hector S. Lazcano
 ## [Take a look at my site!](https://hector-lazcano.vercel.app/)
 ## 💻 Full Stack Developer
-I'm an electronic engineer who decided to dive into the world of full-stack development, and I haven't looked back since! With over 5 years of experience, I love crafting high-quality, maintainable, and scalable applications. Staying curious and keeping up with emerging technologies is what keeps me excited about building innovative solutions every day.
+Hi, I'm Héctor. I'm an Electronics Engineer turned Full Stack Developer with over 7 years of experience building scalable, maintainable, and high-performance applications. I specialize in both frontend and backend development using modern technologies like TypeScript, React, Next.js, Python, Java, and SQL/NoSQL databases. I’m passionate about clean architecture, meaningful APIs, and collaborating in cross-functional teams to turn complex challenges into elegant solutions. Currently open to new opportunities where I can continue learning, growing, and making an impact through great software.
 
 ## 🚀 My Skills
 Languages and Frameworks
